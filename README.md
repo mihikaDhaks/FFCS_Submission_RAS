@@ -6,6 +6,10 @@ The ipynb notebook has code for a program that can detect and identify Pokemon p
 <br>
 It used a classification algorithm which used ReLU activation function for the inner layers and a sigmoid activation function for the output layer.
 <br>
+<br>
+Deployment link : https://473003a9cf97ef936f.gradio.live/
+<br>
+<br>
 Done by Mihika Dhakray, FFCS member of IEEE RAS.
 <br>
 ---
